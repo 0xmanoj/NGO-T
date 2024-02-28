@@ -36,10 +36,10 @@ export default function Testimonials() {
                 />
               </div>
               <div className="flex flex-col items-start ml-4">
-                <p className="text-base font-semibold leading-4 text-white">
+                <p className="text-base font-semibold leading-4 text-black">
                   Name-one
                 </p>
-                <p className="text-base leading-4 mt-2 text-center text-white">
+                <p className="text-base leading-4 mt-2 text-center text-black">
                   role-one
                 </p>
               </div>

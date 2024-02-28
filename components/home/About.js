@@ -3,11 +3,11 @@ import React from "react";
 export default function About() {
   return (
     <div
-      className="flex flex-col w-full items-center mt-10 md:mt-14 "
+      className="flex flex-col w-full items-center md:mt-14 lg:px-20 md:px-6 px-4 py-12"
       id="about"
     >
       <p className="text-4xl font-bold">About Us</p>
-      <p className="text-white-500 text-xl w-full md:w-8/12 text-center my-4">
+      <p className="text-white-500 text-xl w-full md:w-8/12 text-start my-4">
         Lorem ipsum dolor sit amet. Ut sunt omnis et eius dolor ut rerum voluptas. Aut corporis molestiae ea minus dignissimos et voluptate voluptas et iure temporibus est harum numquam non nihil voluptate. Et numquam error quo laborum esse est animi minus!
         <br />
         <br />

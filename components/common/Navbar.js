@@ -100,19 +100,10 @@ export default function Navbar() {
                 </div>
                 <nav>
                   <ul class="space-y-4">
+                    
                     <li>
                       <a
-                        href="#"
-                        aria-label="Our product"
-                        title="Our product"
-                        class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
-                      >
-                        Product
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        href="#"
+                        href="#donate"
                         aria-label="Our product"
                         title="Our product"
                         class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
@@ -122,17 +113,7 @@ export default function Navbar() {
                     </li>
                     <li>
                       <a
-                        href="#"
-                        aria-label="Product Our Team"
-                        title="Product Our Team"
-                        class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
-                      >
-                        Our Team
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        href="#"
+                        href="##stats"
                         aria-label="Statistics"
                         title="Statistics"
                         class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
@@ -142,7 +123,7 @@ export default function Navbar() {
                     </li>
                     <li>
                       <a
-                        href="#"
+                        href="#about"
                         aria-label="About Us"
                         title="About Us"
                         class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
